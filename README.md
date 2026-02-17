@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                         Nihit Hindlekar
 Data Analyst Leader | Machine Learning & BI | Building Data Products that Drive Growth<br>
 
 
